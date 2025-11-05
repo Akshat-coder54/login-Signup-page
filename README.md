@@ -7,7 +7,7 @@
   <style>
     body {
       margin: 2;
-      padding: 0;
+      padding: 2;
       height: 100vh;
       background: linear-gradient(135deg, #264653, #2a9d8f, #e9c46a, #f4a261, #e76f51);
       background-size: 300% 300%;
