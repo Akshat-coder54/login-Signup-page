@@ -11,7 +11,7 @@
       height: 100vh;
       background: linear-gradient(135deg, #264653, #2a9d8f, #e9c46a, #f4a261, #e76f51);
       background-size: 300% 300%;
-      animation: bgmove 15s infinite alternate;
+      animation: bgmove 17s infinite alternate;
       font-family: "Poppins", sans-serif;
       overflow: hidden;
     }
