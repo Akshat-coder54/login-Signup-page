@@ -29,7 +29,7 @@
       color: #fff;
       border: none;
       padding: 6px 18px;
-      border-radius: 10px;
+      border-radius: 12px;
       cursor: pointer;
       font-size: 0.85rem;
       font-weight: 400;
