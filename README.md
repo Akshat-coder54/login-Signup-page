@@ -63,7 +63,7 @@
     .popup input {
       width: 90%;
       padding: 8px;
-      margin: 8px 0;
+      margin: 8px 1;
       border: 1px solid #ccc;
       border-radius: 8px;
       font-size: 0.9rem;
