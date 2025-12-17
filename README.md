@@ -26,7 +26,7 @@
       top: 15px;
       right: 14px;
       background: #2a9d8f;
-      color: #fff;
+      color: #ffff;
       border: none;
       padding: 6px 18px;
       border-radius: 12px;
