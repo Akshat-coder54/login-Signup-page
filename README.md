@@ -8,7 +8,7 @@
     body {
       margin: 1;
       padding:1;
-      height: 105vh;
+      height: 104vh;
       background: linear-gradient(135deg, #264653, #2a9d8f, #e9c46a, #f4a261, #e76f51);
       background-size: 300% 300%;
       animation: bgmove 16s infinite alternate;
