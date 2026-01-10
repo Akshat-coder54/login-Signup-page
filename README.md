@@ -23,7 +23,7 @@
 
     #loginBtn {
       position: fixed;
-      top: 16px;
+      top: 18px;
       right: 16px;
       background: #2a9d8f;
       color: #ffff;
