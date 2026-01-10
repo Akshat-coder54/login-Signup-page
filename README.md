@@ -28,7 +28,7 @@
       background: #2a9d8f;
       color: #ffff;
       border: none;
-      padding: 6px 18px;
+      padding: 7px 18px;
       border-radius: 12px;
       cursor: pointer;
       font-size: 0.85rem;
