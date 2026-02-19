@@ -48,7 +48,7 @@
       background: white;
       padding: 25px;
       border-radius: 12px;
-      box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
       width: 320px;
       text-align: center;
       z-index: 30;
