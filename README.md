@@ -16,7 +16,7 @@
       overflow: hidden;
     }
 
-    @keyframes bgmove {
+    @keyframes bgmove  {
       0% { background-position: left top; }
       100% { background-position: right bottom; }
     }
