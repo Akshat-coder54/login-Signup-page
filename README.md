@@ -6,8 +6,8 @@
   <title>Login Popup Example</title>
   <style>
     body {
-      margin:2;
-      padding:2;
+      margin:1;
+      padding:1;
       height: 105vh;
       background: linear-gradient(135deg, #264653, #2a9d8f, #e9c46a, #f4a261, #e76f51);
       background-size: 300% 300%;
