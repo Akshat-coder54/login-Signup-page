@@ -31,7 +31,7 @@
       padding: 7px 18px;
       border-radius: 12px;
       cursor: pointer;
-      font-size: 0.85rem;
+      font-size: 0.rem;
       font-weight: 400;
       transition: 0.5s;
       z-index: 20;
